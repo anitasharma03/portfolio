@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AnitaSharma.github.io/static/css/main.d2ad7a12.css",
+    "main.js": "/AnitaSharma.github.io/static/js/main.f5093fb4.js",
+    "static/js/787.11429cdd.chunk.js": "/AnitaSharma.github.io/static/js/787.11429cdd.chunk.js",
+    "static/media/profile-photo.jpg": "/AnitaSharma.github.io/static/media/profile-photo.5bffe4cb5be0653acd93.jpg",
+    "static/media/welcome-banner.jpg": "/AnitaSharma.github.io/static/media/welcome-banner.7cf155cfbc3ae334101f.jpg",
+    "static/media/logo.svg": "/AnitaSharma.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AnitaSharma.github.io/index.html",
+    "main.d2ad7a12.css.map": "/AnitaSharma.github.io/static/css/main.d2ad7a12.css.map",
+    "main.f5093fb4.js.map": "/AnitaSharma.github.io/static/js/main.f5093fb4.js.map",
+    "787.11429cdd.chunk.js.map": "/AnitaSharma.github.io/static/js/787.11429cdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2ad7a12.css",
+    "static/js/main.f5093fb4.js"
+  ]
+}
