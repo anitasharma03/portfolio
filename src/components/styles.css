@@ -27,6 +27,9 @@
         height: 362px !important;
     }
 
+    .about-list-icon ul li a{
+        border: none !important;
+    }
     .col-md-offset-1{
         margin-left: 0 !important;
     }
