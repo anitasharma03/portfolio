@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.561ce93c.css",
-    "main.js": "/portfolio/static/js/main.36c3327c.js",
+    "main.css": "/portfolio/static/css/main.9f614456.css",
+    "main.js": "/portfolio/static/js/main.f2cbcdec.js",
     "static/js/787.11429cdd.chunk.js": "/portfolio/static/js/787.11429cdd.chunk.js",
     "static/media/profile-photo.jpg": "/portfolio/static/media/profile-photo.5bffe4cb5be0653acd93.jpg",
     "static/media/welcome-banner.jpg": "/portfolio/static/media/welcome-banner.7cf155cfbc3ae334101f.jpg",
@@ -9,16 +9,16 @@
     "static/media/monster.png": "/portfolio/static/media/monster.3ce961fa7321f9023ec1.png",
     "static/media/quoteMachine.png": "/portfolio/static/media/quoteMachine.5443fe8ca61973d474a8.png",
     "static/media/matchGame.png": "/portfolio/static/media/matchGame.d84d53690537fd3fc98c.png",
-    "static/media/Resume.pdf": "/portfolio/static/media/Resume.9c536a83cf86a6022c82.pdf",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.0abf08488b7e10586133.pdf",
     "static/media/todoApp.png": "/portfolio/static/media/todoApp.e56c038f8ab1ef241683.png",
     "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio/index.html",
-    "main.561ce93c.css.map": "/portfolio/static/css/main.561ce93c.css.map",
-    "main.36c3327c.js.map": "/portfolio/static/js/main.36c3327c.js.map",
+    "main.9f614456.css.map": "/portfolio/static/css/main.9f614456.css.map",
+    "main.f2cbcdec.js.map": "/portfolio/static/js/main.f2cbcdec.js.map",
     "787.11429cdd.chunk.js.map": "/portfolio/static/js/787.11429cdd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.561ce93c.css",
-    "static/js/main.36c3327c.js"
+    "static/css/main.9f614456.css",
+    "static/js/main.f2cbcdec.js"
   ]
 }
