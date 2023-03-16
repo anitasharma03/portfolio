@@ -19,9 +19,14 @@
 
 @media screen and (max-width: 992px) {
     .welcome-hero{
+        background: none !important;
         background-color: rgb(42 46 67) !important;
         background-size: contain !important;
     }
+    .single-about-img img{
+        height: 100% !important;
+    }
+
     .col-md-offset-1{
         margin-left: 0 !important;
     }
@@ -707,6 +712,10 @@ width:95%;
     width:85%;
 }
 
+.redux-bar{
+    width:83%;
+}
+
 .bootstrap-bar{
     width:87%;
 }
@@ -717,6 +726,10 @@ width:95%;
 
 .jquery-bar{
     width:80%;
+}
+
+.github-gh-pages-bar{
+    width:85%;
 }
 
 .interpersonal-bar{
@@ -1072,6 +1085,10 @@ width:95%;
 	.welcome-hero {height: 768px;}
 
 	.timeline-content span>i, .experience-time span>i {left: -15.5%;}
+
+    .experience-time h3{
+        font-size: 14px;
+    }
 }
 
 

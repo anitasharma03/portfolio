@@ -21,6 +21,11 @@ const skillSet1 = [
 		id: 4,
 		skill: "react",
 		percentage: 85
+	  },
+	  {
+		id: 5,
+		skill: "redux",
+		percentage: 83
 	  }
   ];
 
@@ -42,6 +47,11 @@ const skillSet2 = [
 	  },
 	  {
 		id: 104,
+		skill: "github-gh-pages",
+		percentage: 85
+	  },
+	  {
+		id: 105,
 		skill: "interpersonal",
 		percentage: 92
 	  }
